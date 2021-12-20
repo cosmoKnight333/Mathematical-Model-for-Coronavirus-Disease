@@ -1,0 +1,14 @@
+Abstract:
+Since the Coronavirus spread started in China, scientists and
+Mathematicians around the globe have been trying to predict its nature
+so that they can come up with the most efficient method to handle this
+epidemic. As this virus mutates to different variants with different
+spreading rates, tracking its behavior is a matter of concern. As many
+countries are imposing lockdowns and promoting social distancing, we
+have proposed a mathematical model which will help in understanding
+the effect of isolation in preventing the spread. We made the model and
+presented its stability by finding the reproductive factor, Ro. For
+numeration, we have used script.integrate library on python which is
+based on the explicit Runge-Kutta method. Finally, we plotted
+susceptible, recovered, infective, exposed for different values of the
+isolation factor and observed the nature of the system.
